@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserDictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="count_statement">The USerDictionary contains %1$d words \n"</string>
+</resources>
